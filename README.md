@@ -27,6 +27,10 @@ The recommended citation is:
 
 > "Crash course on clean code for researchers" by Neil Chue Hong for the Software Sustainability Institute is licensed under CC BY 4.0
 
+### Acknowledgements
+
 This work was support by EPSRC/ESRC/BBSRC grant EP/N006410/1 for the UK Software Sustainability Institute. 
 It was originally developed for the NIOO and DANS workshop on 
 Open Science Tools, Data & Technologies for Efficient Ecological & Evolutionary Research which ran on the 7/8 December 2017.
+
+It is based on the practices covered in the paper [Good Enough Practices in Scientific Computing](https://doi.org/10.1371/journal.pcbi.1005510) by Wilson et al and materials from Mike Jackson's [GRADnet training course](https://github.com/softwaresaved/2017-10-18-gradnet). 
