@@ -36,8 +36,9 @@ Whilst the code review exercise will be on a piece of Python code, you should no
 
 ## Materials
 
-The slides for this workshop are 
+The slides for this workshop and handouts for the code review exercise are at: [https://github.com/softwaresaved/clean-code-workshop/tree/master/materials](https://github.com/softwaresaved/clean-code-workshop/tree/master/materials)
 
+The code snippets for the code review exercise are at: [https://github.com/softwaresaved/clean-code-workshop/tree/master/code_review](https://github.com/softwaresaved/clean-code-workshop/tree/master/code_review)
 
 You are encouraged not to look at the code review materials before you have done the exercises.
 
