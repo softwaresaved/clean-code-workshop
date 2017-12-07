@@ -17,7 +17,12 @@
 ### Session 2: 11:30 - 13:00 (90 minutes)
 
   * Code review summary (15 minutes)
-
+  * Introduction to version control (15 minutes)
+  * Choosing a license (5 minutes)
+  * Getting an ORCID (5 minutes)
+  * Software in repositories (15 minutes)
+  * Other topics (15 minutes)
+  * Wrap-up (10 minutes)
 
 
 ## Introductions *(15 minutes)*
