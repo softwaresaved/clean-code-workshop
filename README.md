@@ -40,6 +40,9 @@ The slides for this workshop and handouts for the code review exercise are at: [
 
 The code snippets for the code review exercise are at: [https://github.com/softwaresaved/clean-code-workshop/tree/master/code_review](https://github.com/softwaresaved/clean-code-workshop/tree/master/code_review)
 
+If you want to try the [Jupyter Notebook version](https://github.com/softwaresaved/clean-code-workshop/blob/master/notebook/sumofpowers.ipynb)
+of the sum of powers code, click on this icon: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/softwaresaved/clean-code-workshop/master?filepath=notebook%2Fsumofpowers.ipynb)
+
 You are encouraged not to look at the code review materials before you have done the exercises.
 
 
